@@ -1,0 +1,40 @@
+@import "./_vars";
+@import "./_mixins";
+
+.containersCustom {
+  padding-left: $CONTAINER_CUSTOM_PADDING_LEFT;
+  padding-right: $CONTAINER_CUSTOM_PADDING_RIGHT;
+}
+
+.invisible {
+  opacity: 0;
+}
+
+.view-enter {
+  @include fade-in(0s, 0.7s, ease-in);
+  z-index: 9999;
+}
+
+body {
+  background:#333;
+  color: white;
+}
+
+.flexy {
+  
+  display: flex;
+  justify-content: center;
+  
+  &.h {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  &.v {
+    flex-direction: column;
+  }
+}
+
+h2,h3 {
+  text-align: center;
+}

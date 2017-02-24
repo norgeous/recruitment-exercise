@@ -1,0 +1,14 @@
+{
+  "brand"       : "Recruitment Exercise",
+  "leftLinks"   : [],
+  "rightLinks"  : [
+    {
+      "label" : "Home",
+      "link"  : "/"
+    },
+    {
+      "label" : "About",
+      "link"  : "/about"
+    }
+  ]
+}
