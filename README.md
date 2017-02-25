@@ -19,7 +19,7 @@ npm i
 ```
 
 ### Run / Build / Test
-Please refer to https://github.com/MacKentoch/react-bootstrap-webpack-starter
+Please refer to https://github.com/MacKentoch/react-bootstrap-webpack-starter#usage
 
 NOTE: There are different commands for **Windows users**.
 
@@ -35,6 +35,9 @@ NOTE: There are different commands for **Windows users**.
 * Caching results from the API.
 * Retry requests on API fail.
 * Could include more info than just time and icon.
+* Could adjust times to match the location's local timezone.
+* Add https to host.
+* Could tidy repo, remove all unnecessary code.
 * Proper testing / code coverage.
 * Testing the build system on different platforms.
 * Checking that the build runs in different browsers / check caniuse.com for a few things.
