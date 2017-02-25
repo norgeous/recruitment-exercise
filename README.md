@@ -7,7 +7,7 @@ https://github.com/buildit/org-design/blob/master/Recruitment/Exercises/js_engin
 Here is the [Starter kit](https://github.com/MacKentoch/react-bootstrap-webpack-starter) I used, found by searching for '[react webpack es6 sass hot](https://github.com/search?utf8=%E2%9C%93&q=react+webpack+es6+sass+hot&type=Repositories&ref=searchresults)' on github.
 
 ### Demo
-http://norgeous.github.io/recruitment-exercise/
+http://lab.cloudcu.be/docs/
 
 The build should also work just by opening `docs/index.html` in your browser.
 
@@ -29,6 +29,7 @@ NOTE: There are different commands for **Windows users**.
 * Improve the colour scheme.
 * Better weather icons, such as https://erikflowers.github.io/weather-icons/
 * Improve the layout, such as a carousel.
+* Bootstrap tooltips.
 * Improve the responsiveness (currently just flexbox), add some media queries or bootstrap.
 * Automatically reloading the API results.
 * Caching results from the API.
